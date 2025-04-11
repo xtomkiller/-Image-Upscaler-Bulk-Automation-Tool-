@@ -1,5 +1,1 @@
 selenium
-tkinter
-os
-time
-threading
