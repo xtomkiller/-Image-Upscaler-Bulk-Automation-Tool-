@@ -29,6 +29,8 @@ Let me know if you also want me to prepare a `.sh` script to automate all of thi
 
 ## 🚀 Installation
 
+    sudo apt update
+    sudo apt install python3-tk
     git clone https://github.com/xtomkiller/Image_Upscaler_Bulk_Automation-Tool
     cd Image_Upscaler_Bulk_Automation-Tool
     pip install -r requirements.txt
