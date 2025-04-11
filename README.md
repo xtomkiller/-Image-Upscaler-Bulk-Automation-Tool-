@@ -23,18 +23,18 @@
 
     git clone https://github.com/your-username/image-upscaler-bot.git
     cd image-upscaler-bot
-    pip install selenium
+    pip install -r requirements.txt
 
 ## 🚀 How to Run
 
-python3 upscaler_gui.py
+    python3 upscaler_gui.py
 
 ## 💻 GUI Instructions
 
-Click 📁 Choose Image Folder to select your image folder.
-Select 2x or 4x as upscaling ratio.
-Click Fast Mode (Bulk) to begin automated uploading and downloading.
-The script processes 10 images at a time, opens new browser tabs, and downloads results after AI processing is complete.
+    Click 📁 Choose Image Folder to select your image folder.
+    Select 2x or 4x as upscaling ratio.
+    Click Fast Mode (Bulk) to begin automated uploading and downloading.
+    The script processes 10 images at a time, opens new browser tabs, and downloads results after AI processing is complete.
 
 # 📁 Folder Structure
 
