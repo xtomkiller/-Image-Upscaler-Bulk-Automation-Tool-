@@ -3,13 +3,13 @@
 
 # 🔧 Features
 
-✅ Uploads multiple .png, .jpg, and .jpeg images
-✅ Supports 2x and 4x upscale ratios
-✅ Opens multiple tabs for parallel processing (10 at a time)
-✅ Automatically downloads enhanced images
-✅ Includes GUI (Graphical User Interface)
-✅ Error handling with screenshots for debugging
-✅ Optional delay between processing for performance and rate-limiting
+  ✅ Uploads multiple .png, .jpg, and .jpeg images
+  ✅ Supports 2x and 4x upscale ratios
+  ✅ Opens multiple tabs for parallel processing (10 at a time)
+  ✅ Automatically downloads enhanced images
+  ✅ Includes GUI (Graphical User Interface)
+  ✅ Error handling with screenshots for debugging
+  ✅ Optional delay between processing for performance and rate-limiting
 
 #📦 Requirements
 
