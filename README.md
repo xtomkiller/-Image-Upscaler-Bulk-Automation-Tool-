@@ -22,7 +22,7 @@
 ## 🚀 Installation
 
     git clone https://github.com/xtomkiller/Image_Upscaler_Bulk_Automation-Tool
-    cd image-upscaler-bot
+    cd Image_Upscaler_Bulk_Automation-Tool
     pip install -r requirements.txt
 
 ## 🚀 How to Run
