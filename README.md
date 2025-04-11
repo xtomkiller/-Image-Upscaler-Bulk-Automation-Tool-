@@ -47,3 +47,13 @@ image-upscaler-bot/
 
 ## 📷 Screenshots
 
+
+## 📌 Notes
+
+    The script uses imgupscaler.com which offers free and fast AI image upscaling.
+
+    Make sure Chrome and ChromeDriver are the same version.
+
+    Processed files are downloaded to the browser's default Downloads folder.
+
+    Tab-wise screenshot handling helps in identifying failed tabs.
