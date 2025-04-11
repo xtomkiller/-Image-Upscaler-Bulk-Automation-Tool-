@@ -19,6 +19,74 @@
    selenium library
    tkinter (included in standard Python on most platforms)
 
+Bilkul! Neeche GitHub repository ke **README.md** ke description section ke liye professional aur clear format mein likha gaya hai — jisme **virtual environment setup**, activation, aur dependency install ka full guide diya gaya hai. Aap isko direct copy-paste kar sakte ho.
+
+---
+
+## ⚙️ Setup Instructions
+
+To run this project safely on Kali Linux or any system with Python restrictions (PEP 668), follow these steps using a virtual environment.
+
+### 🛠️ Step 1: Create a Virtual Environment
+
+```bash
+python3 -m venv .venv
+```
+
+> 💡 If you get an error like `No module named 'venv'`, run:
+```bash
+sudo apt install python3-venv
+```
+
+---
+
+### 🚀 Step 2: Activate the Virtual Environment
+
+```bash
+source .venv/bin/activate
+```
+
+You should now see your terminal prompt change like this:
+```bash
+(.venv) hacker@kali:~/your-project-folder$
+```
+
+---
+
+### 📦 Step 3: Install All Required Packages
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install everything listed in `requirements.txt`.
+
+---
+
+### ▶️ Step 4: Run the Tool
+
+```bash
+python3 main.py
+```
+
+---
+
+### ❌ Step 5: Exit the Virtual Environment
+
+When you're done:
+
+```bash
+deactivate
+```
+
+---
+
+> ✅ This approach keeps your system clean, avoids `externally-managed-environment` errors, and follows best practices for Python development on Kali Linux.
+
+---
+
+Let me know if you also want me to prepare a `.sh` script to automate all of this setup in one command!
+
 ## 🚀 Installation
 
     git clone https://github.com/xtomkiller/Image_Upscaler_Bulk_Automation-Tool
