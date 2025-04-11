@@ -19,8 +19,23 @@
    selenium library
    tkinter (included in standard Python on most platforms)
 
-Bilkul! Neeche GitHub repository ke **README.md** ke description section ke liye professional aur clear format mein likha gaya hai — jisme **virtual environment setup**, activation, aur dependency install ka full guide diya gaya hai. Aap isko direct copy-paste kar sakte ho.
 
+
+> ✅ This approach keeps your system clean, avoids `externally-managed-environment` errors, and follows best practices for Python development on Kali Linux.
+
+---
+
+Let me know if you also want me to prepare a `.sh` script to automate all of this setup in one command!
+
+## 🚀 Installation
+
+    git clone https://github.com/xtomkiller/Image_Upscaler_Bulk_Automation-Tool
+    cd Image_Upscaler_Bulk_Automation-Tool
+    pip install -r requirements.txt
+
+## 🚀 How to Run
+
+    python3 upscaler_gui.py
 ---
 
 ## ⚙️ Setup Instructions
@@ -80,22 +95,6 @@ deactivate
 ```
 
 ---
-
-> ✅ This approach keeps your system clean, avoids `externally-managed-environment` errors, and follows best practices for Python development on Kali Linux.
-
----
-
-Let me know if you also want me to prepare a `.sh` script to automate all of this setup in one command!
-
-## 🚀 Installation
-
-    git clone https://github.com/xtomkiller/Image_Upscaler_Bulk_Automation-Tool
-    cd Image_Upscaler_Bulk_Automation-Tool
-    pip install -r requirements.txt
-
-## 🚀 How to Run
-
-    python3 upscaler_gui.py
 
 ## 💻 GUI Instructions
 
