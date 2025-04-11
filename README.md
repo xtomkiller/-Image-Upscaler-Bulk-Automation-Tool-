@@ -21,9 +21,9 @@
 
 ## 🚀 Installation
 
- git clone https://github.com/your-username/image-upscaler-bot.git
- cd image-upscaler-bot
- pip install selenium
+    git clone https://github.com/your-username/image-upscaler-bot.git
+    cd image-upscaler-bot
+    pip install selenium
 
 ## 🚀 How to Run
 
