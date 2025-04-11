@@ -106,13 +106,13 @@ deactivate
     The script processes 10 images at a time, opens new browser tabs, and downloads results after AI processing is complete.
 
 # 📁 Folder Structure
-"""
-image-upscaler-bot/
-│
-├── upscaler_gui.py         # Main script with GUI and automation
-├── README.md               # Project documentation
-├── upload_error_tabX.png   # (Optional) Error screenshots for upload issues
-├── download_error_tabX.png # (Optional) Error screenshots for download issues """
+
+    image-upscaler-bot/
+    │
+    ├── upscaler_gui.py         # Main script with GUI and automation
+    ├── README.md               # Project documentation
+    ├── upload_error_tabX.png   # (Optional) Error screenshots for upload issues
+    ├── download_error_tabX.png # (Optional) Error screenshots for download issues
 
 ## 📷 Screenshots
 
